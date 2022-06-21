@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./cover/transparent-1k.png" width="400" />
+    <img src="./cover/cybermm/transparent-1k.png" width="400" />
 </p>
 
 # Team Art
